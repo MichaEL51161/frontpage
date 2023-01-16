@@ -61,3 +61,14 @@ nav h1 a{
 nav h1 a:hover{
 background-color: burlywood;
 }
+@media (max-width:500px){
+    body{
+        background-color: brown;
+    }
+    nav ul{
+        display: none;
+    }
+}
+/* @media screen {max: width 300px;;
+    
+} */
