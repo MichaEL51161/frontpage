@@ -64,13 +64,14 @@ background-color: burlywood;
 @media (max-width:500px){
     body{
         background-color: brown;
+        position: relative;
     }
     /* nav ul{
         display: none; */
     }
     nav.neww{
         position: relative;
-        left: 5px;
+        left: -380px;
     }
 /* } */
 /* @media screen {max: width 300px;;
