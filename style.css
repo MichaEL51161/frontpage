@@ -65,10 +65,14 @@ background-color: burlywood;
     body{
         background-color: brown;
     }
-    nav ul{
-        display: none;
+    /* nav ul{
+        display: none; */
     }
-}
+    nav.neww{
+        position: relative;
+        left: 5px;
+    }
+/* } */
 /* @media screen {max: width 300px;;
     
 } */
